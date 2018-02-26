@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graficos on Dandara Sousa</title>
+    <link>https://dandaramcsousa.github.io/data-portfolio/tags/graficos/</link>
+    <description>Recent content in Graficos on Dandara Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2017 09:25:04 -0300</lastBuildDate>
+    
+	<atom:link href="https://dandaramcsousa.github.io/data-portfolio/tags/graficos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Açude de Boqueirão</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/acude-de-boqueirao/</link>
+      <pubDate>Tue, 14 Nov 2017 09:25:04 -0300</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/acude-de-boqueirao/</guid>
+      <description>O Açude Epitácio Pessoa, o Boqueirão, é uma represa localizada na cidade de Boqueirão que abastece diversas cidades no estado da Paraíba. O açude chamou atenção afora das cidades abastecidas quando, com a seca, ele atingiu volumes extremos e que levaram à um racionamento que se estendeu de dezembro de 2014 até julho de 2017. Utilizando dados da Agência Nacional de Águas, a ANA, podemos entender um pouco do histórico do açude.</description>
+    </item>
+    
+  </channel>
+</rss>

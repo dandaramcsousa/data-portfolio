@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dandara Sousa</title>
+    <link>https://dandaramcsousa.github.io/data-portfolio/post/</link>
+    <description>Recent content in Posts on Dandara Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2018 23:11:44 -0300</lastBuildDate>
+    
+	<atom:link href="https://dandaramcsousa.github.io/data-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Escolaridade Paraibana</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-paraibana/</link>
+      <pubDate>Sun, 25 Feb 2018 23:11:44 -0300</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-paraibana/</guid>
+      <description>.cidades { fill: none; stroke: #fff; stroke-linejoin: round; }
+path:hover, path.highlighted { fill: tomato; }
+div.tooltip { position: absolute; background-color: white; border: 1px solid black; color: black; font-family:&amp;ldquo;avenir next&amp;rdquo;, Arial, sans-serif; padding: 4px 8px; display: none; }
+
+
+     var svg = d3.select(&#34;svg&#34;), width = +svg.attr(&#34;width&#34;), height = +svg.attr(&#34;height&#34;); var path = d3.geoPath(); // a escala de cores var color = d3.scaleThreshold().domain([-15,0,15,30,45]).range(d3.schemeSpectral[5]); // função aux definida em legenda-d3-cor.</description>
+    </item>
+    
+    <item>
+      <title>Estabelecimentos de Ensino Fundamental em áreas remanescentes de Quilombos</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-quilombola/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-quilombola/</guid>
+      <description>Há muitos anos atrás o Brasil enquanto um país com escravidão vivenciou a existência de quilombos. Um dos mais famosos foi o Quilombo dos Palmares, que estava onde atualmente é Alagoas e abrigou milhares de negros refugiados. Os lugares onde eram quilombos são até hoje vividos com culturas daquela época, com forte raiz na cultura africana.
+A motivação para esse post veio do decreto que regulamenta terras quilombolas e que estava sendo ameaçado de ser derrubado.</description>
+    </item>
+    
+    <item>
+      <title>Açude de Boqueirão</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/acude-de-boqueirao/</link>
+      <pubDate>Tue, 14 Nov 2017 09:25:04 -0300</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/acude-de-boqueirao/</guid>
+      <description>O Açude Epitácio Pessoa, o Boqueirão, é uma represa localizada na cidade de Boqueirão que abastece diversas cidades no estado da Paraíba. O açude chamou atenção afora das cidades abastecidas quando, com a seca, ele atingiu volumes extremos e que levaram à um racionamento que se estendeu de dezembro de 2014 até julho de 2017. Utilizando dados da Agência Nacional de Águas, a ANA, podemos entender um pouco do histórico do açude.</description>
+    </item>
+    
+  </channel>
+</rss>

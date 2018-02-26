@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/bootstrap/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/highlight-js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dandaramcsousa.github.io/data-portfolio/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paraiba on Dandara Sousa</title>
+    <link>https://dandaramcsousa.github.io/data-portfolio/tags/paraiba/</link>
+    <description>Recent content in Paraiba on Dandara Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2018 23:11:44 -0300</lastBuildDate>
+    
+	<atom:link href="https://dandaramcsousa.github.io/data-portfolio/tags/paraiba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Escolaridade Paraibana</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-paraibana/</link>
+      <pubDate>Sun, 25 Feb 2018 23:11:44 -0300</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/escolaridade-paraibana/</guid>
+      <description>.cidades { fill: none; stroke: #fff; stroke-linejoin: round; }
+path:hover, path.highlighted { fill: tomato; }
+div.tooltip { position: absolute; background-color: white; border: 1px solid black; color: black; font-family:&amp;ldquo;avenir next&amp;rdquo;, Arial, sans-serif; padding: 4px 8px; display: none; }
+
+
+     var svg = d3.select(&#34;svg&#34;), width = +svg.attr(&#34;width&#34;), height = +svg.attr(&#34;height&#34;); var path = d3.geoPath(); // a escala de cores var color = d3.scaleThreshold().domain([-15,0,15,30,45]).range(d3.schemeSpectral[5]); // função aux definida em legenda-d3-cor.</description>
+    </item>
+    
+  </channel>
+</rss>
