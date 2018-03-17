@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotify on Dandara Sousa</title>
+    <link>https://dandaramcsousa.github.io/data-portfolio/tags/spotify/</link>
+    <description>Recent content in Spotify on Dandara Sousa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Mar 2018 21:40:58 -0300</lastBuildDate>
+    
+	<atom:link href="https://dandaramcsousa.github.io/data-portfolio/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top Spotify</title>
+      <link>https://dandaramcsousa.github.io/data-portfolio/post/top-spotify/</link>
+      <pubDate>Fri, 16 Mar 2018 21:40:58 -0300</pubDate>
+      
+      <guid>https://dandaramcsousa.github.io/data-portfolio/post/top-spotify/</guid>
+      <description>Directive by HTML5 UP      Meu top 50 Spotify   Entre meus amigos sou sempre conhecida por ter playlist para tudo, por ouvir e conhecer de tudo. Se torna até um desafio me apresentar um artista. Pessoalmente, fazer uma visualização como essa me surpreendeu. Escuto muito pela &#34;vibe&#34; e nunca parei para observar qual artista em específico é o que eu deveria chamar de favorito (ou ao menos mais frequente).</description>
+    </item>
+    
+  </channel>
+</rss>
