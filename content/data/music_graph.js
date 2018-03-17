@@ -19,7 +19,8 @@ const simulation = d3.forceSimulation()
 
 svg.append('g')
     .attr('class', 'category-legend')
-    .attr('transform', 'translate(20,20)');
+    .attr('transform', 'translate(20,20)')
+    .style("font-size","12px");
 
 const legend = d3.legendColor()
     .shape('circle')
@@ -118,10 +119,10 @@ d3.json('../../data/the50s.json', function (error, json) {
     nodeGroup
         .append('image')
         .attr('xlink:href', d => d.img)
-        .attr('x', -25)
-        .attr('y', -25)
-        .attr('width', 20)
-        .attr('height', 20)
+        .attr('x', -20)
+        .attr('y', -20)
+        .attr('width', 25)
+        .attr('height', 25)
         .on('mouseover', (d, i, nodes) => {
             svg.selectAll('.links line')
                 .transition()
@@ -138,18 +139,18 @@ d3.json('../../data/the50s.json', function (error, json) {
             d3.selectAll(nodes)
                 .classed('greyed', n => n.id !== d.id && !isAdjacent(d, n))
                 .transition().duration(200)
-                .attr('x', n => isAdjacent(d, n) ? -33 : -25)
-                .attr('y', n => isAdjacent(d, n) ? -33 : -25)
-                .attr('width', n => isAdjacent(d, n) ? 33 : 20)
-                .attr('height', n => isAdjacent(d, n) ? 33 : 20);
+                .attr('x', n => isAdjacent(d, n) ? -30 : -20)
+                .attr('y', n => isAdjacent(d, n) ? -30 : -20)
+                .attr('width', n => isAdjacent(d, n) ? 35 : 15)
+                .attr('height', n => isAdjacent(d, n) ? 35 : 15);
 
             d3.select(nodes[i])
                 .transition()
                 .duration(200)
-                .attr('x', -40)
-                .attr('y', -40)
-                .attr('width', 20)
-                .attr('height', 20);
+                .attr('x', -30)
+                .attr('y', -30)
+                .attr('width', 35)
+                .attr('height', 35);
 
             d3.selectAll('.legendlabel')
                 .filter(l => {
@@ -177,10 +178,10 @@ d3.json('../../data/the50s.json', function (error, json) {
                 .classed('greyed', false)
                 .transition()
                 .duration(200)
-                .attr('x', -25)
-                .attr('y', -25)
-                .attr('width', 20)
-                .attr('height', 20);
+                .attr('x', -20)
+                .attr('y', -20)
+                .attr('width', 25)
+                .attr('height', 25);
 
             d3.selectAll('.legendlabel')
                 .classed('legend-hover', false);
